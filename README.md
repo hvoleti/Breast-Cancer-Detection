@@ -1,3 +1,3 @@
 # Breast-Cancer-Detection
 
-Detecting Breast Cancer among patients using Logistic Regression and various Python libraries. 
+To detect whether a patient has Breast Cancer or not , using Logistic Regression and various Python libraries. 
